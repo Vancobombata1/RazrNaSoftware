@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\MVCTip\MVCTip\bin\Debug\net5.0\MVCTip.exe
+C:\Users\Student\source\repos\MVCTip\MVCTip\bin\Debug\net5.0\MVCTip.deps.json
+C:\Users\Student\source\repos\MVCTip\MVCTip\bin\Debug\net5.0\MVCTip.runtimeconfig.json
+C:\Users\Student\source\repos\MVCTip\MVCTip\bin\Debug\net5.0\MVCTip.runtimeconfig.dev.json
+C:\Users\Student\source\repos\MVCTip\MVCTip\bin\Debug\net5.0\MVCTip.dll
+C:\Users\Student\source\repos\MVCTip\MVCTip\bin\Debug\net5.0\ref\MVCTip.dll
+C:\Users\Student\source\repos\MVCTip\MVCTip\bin\Debug\net5.0\MVCTip.pdb
+C:\Users\Student\source\repos\MVCTip\MVCTip\obj\Debug\net5.0\MVCTip.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\MVCTip\MVCTip\obj\Debug\net5.0\MVCTip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MVCTip\MVCTip\obj\Debug\net5.0\MVCTip.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MVCTip\MVCTip\obj\Debug\net5.0\MVCTip.AssemblyInfo.cs
+C:\Users\Student\source\repos\MVCTip\MVCTip\obj\Debug\net5.0\MVCTip.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MVCTip\MVCTip\obj\Debug\net5.0\MVCTip.dll
+C:\Users\Student\source\repos\MVCTip\MVCTip\obj\Debug\net5.0\ref\MVCTip.dll
+C:\Users\Student\source\repos\MVCTip\MVCTip\obj\Debug\net5.0\MVCTip.pdb
+C:\Users\Student\source\repos\MVCTip\MVCTip\obj\Debug\net5.0\MVCTip.genruntimeconfig.cache
